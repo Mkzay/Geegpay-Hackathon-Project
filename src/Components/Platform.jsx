@@ -1,6 +1,6 @@
 const Platform = () => {
   return (
-    <div className="col-start-1 col-span-6 md:col-start-5 md:col-span-2 p-5 bg-white border border-[#EDF2F7] rounded-[0.875rem] md:w-[25rem] h-[23.375rem] flex flex-col gap-4 overflow-auto scrollbar-hide">
+    <div className="col-start-1 col-span-6 md:col-start-1 md:col-span-6 lg:col-start-5 lg:col-span-2 p-5 bg-white border border-[#EDF2F7] rounded-[0.875rem] lg:w-[25rem] h-[23.375rem] flex flex-col gap-4 overflow-auto scrollbar-hide">
       <div className="flex justify-between">
         <h1 className="text-[#26282C] font-semibold text-lg/[1.625rem]">
           Top Platform

@@ -1,6 +1,6 @@
 const Data = () => {
   return (
-    <div className="col-start-1 col-span-6 md:col-start-5 md:col-span-3 flex overflow-auto scrollbar-hide whitespace-nowrap md:flex-wrap gap-5 md:mt-20">
+    <div className="col-start-1 col-span-6 lg:col-start-5 lg:col-span-3 flex overflow-auto scrollbar-hide whitespace-nowrap md:flex-wrap gap-5 md:mt-20">
       <div className="bg-white border border-[#EDF2F7] rounded-[0.875rem] py-2 px-2 w-[14.8rem] md:h-[10rem] md:w-48 flex flex-col gap-2">
         <div className="flex justify-between">
           <div className="rounded-full w-9 h-9 border flex items-center justify-center">

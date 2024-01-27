@@ -23,7 +23,7 @@ const Dashboard = ({ toggleSidebar }) => {
         </div>
         <div className="flex items-center gap-3">
           <img src="./images/calendar.svg" alt="" />
-          <p className="hidden md:block text-sm/[1.375rem] font-Inter font-normal">
+          <p className="hidden lg:block text-sm/[1.375rem] font-Inter font-normal">
             November 15, 2023
           </p>
         </div>
@@ -32,7 +32,7 @@ const Dashboard = ({ toggleSidebar }) => {
         </div>
         <div className="flex items-center gap-4 border border-[#DADDDD] rounded-full px-2 py-1 font-Inter font-normal">
           <img src="./images/man.png" alt="" />
-          <p className="hidden md:block text-base/normal">
+          <p className="hidden lg:block text-base/normal">
             Justin Bergso<br></br>
             <span className="text-sm/normal text-[#787486]">
               Justin@gmail.com
