@@ -1,6 +1,6 @@
 const Sales = () => {
   return (
-    <div className="col-start-1 col-span-6 lg:col-span-4 p-5 bg-white border border-[#EDF2F7] rounded-[0.875rem] h-[23.375rem] mt-14 md:mt-20 flex flex-col gap-5 overflow-auto scrollbar-hide md:overscroll-hidden">
+    <div className="col-start-1 col-span-6 lg:col-span-4  max-[1300px]:col-span-6 p-5 bg-white border border-[#EDF2F7] rounded-[0.875rem] h-[23.375rem] mt-14 md:mt-20 flex flex-col gap-5 overflow-auto scrollbar-hide md:overscroll-hidden">
       <div className="flex items-center justify-between">
         <h1 className="text-lg/[1.625] font-semibold">Sales Trends</h1>
         <h2 className="text-sm/[1.375rem] font-medium text-[#3A3F51]">
